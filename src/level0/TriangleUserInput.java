@@ -1,4 +1,4 @@
-package leval0;
+package level0;
 
 public class TriangleUserInput {
 	public static void main(String[] args) {
